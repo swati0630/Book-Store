@@ -1,0 +1,9 @@
+.operation {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.item {
+    width: 250px;
+}
